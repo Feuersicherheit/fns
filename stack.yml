@@ -6,3 +6,4 @@ functions:
     lang: node
     handler: ./intro
     image: intro:latest
+
